@@ -1,6 +1,6 @@
 Self Recorded Assets:
 
-- knife chopping on cutting board - (currently sourcing online from Zapsplat, will be removing later) (zapsplat is refusing to load right now, will link source when it does)
+- knife chopping on cutting board
 - oil sizzling in pan
 - water faucet running
 - spray nozzle spraying
@@ -22,3 +22,5 @@ Sourced Assets:
 
 - doorbell
 - phone dial/keyboard/ringing tones
+
+- ringtone: https://www.zapsplat.com/music/software-or-app-voip-call-ringtone-ringing-digital-2/
