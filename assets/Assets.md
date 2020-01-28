@@ -2,25 +2,22 @@ Self Recorded Assets:
 
 - knife chopping on cutting board
 - oil sizzling in pan
-- water faucet running
+- oil scraping in pan
 - spray nozzle spraying
-- food processor processing (not sure of the food yet)
-- sound of break apart frozen foods
-- salt shaker/any loud audible spice (recorded)
-- crunching of tin foil/opening plastic packaging (recorded, not used)
-- smashing garlic with flat of blade
-- (maybe) mincing garlic/ginger
-- pouring sauce
+- salt shaker/any loud audible spice
+- crunching of tin foil/opening plastic packaging
 - my own voice
-- door opening (recorded)
-- fridge door opening (recorded)
-- glasses hiting against each other (recorded, not used)
-- knocking on pans (recorded, not used)
+- door opening
+- fridge door opening
+- glasses hiting against each other
+- knocking on pans
 - cutting board against counter
+- dropping bags against floor
+- opening drawer
+- open jar
+- air vents
 
 Sourced Assets:
 
-- doorbell
-- phone dial/keyboard/ringing tones
-
+- doorbell: https://www.zapsplat.com/music/doorbell-chime-2/
 - ringtone: https://www.zapsplat.com/music/software-or-app-voip-call-ringtone-ringing-digital-2/
